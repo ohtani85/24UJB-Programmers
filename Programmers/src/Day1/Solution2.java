@@ -8,6 +8,7 @@ public class Solution2 {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
+        sc.close();
         System.out.println("a = "+ a);
         System.out.println("b = "+ b);
     }
